@@ -11361,7 +11361,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding: 10px;
 }
 .imagenhistoria img {
-  width: 400px;
+  width: 100%;
 
 }
 
@@ -11375,6 +11375,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   height: 30rem;
  overflow: auto;
 }
+
 
 .slider-testimonial {
   width: 85%;
